@@ -1,0 +1,60 @@
+{
+  "uploadVideos": [
+    {
+      "id": "1af6",
+      "caption": "CSS Tutorial",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyarc5ql5Qb0aUtE9MLaAapWxWpH8kXp0GA&s",
+      "youtubeLink": "https://www.youtube.com/embed/LLU9WtSAEeE"
+    },
+    {
+      "id": "33de",
+      "caption": "Rifle Club",
+      "imgUrl": "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2024/8/18/hanumankind.jpg?crop=fc&w=575&h=575",
+      "youtubeLink": "https://www.youtube.com/embed/_HacZSM24mA"
+    },
+    {
+      "id": "6cf5",
+      "caption": "JAVASCRIPT",
+      "imgUrl": "https://media.licdn.com/dms/image/v2/D4E12AQFfe1nZbaWdMw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1698604163003?e=2147483647&v=beta&t=zrcrB8lfoVmZo0LcSLgut3A_4PwE6YFe9EK3iy17L2Y",
+      "youtubeLink": "https://www.youtube.com/embed/lfmg-EJ8gm4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "3bdc",
+      "categoryName": "Trailers",
+      "allVideos": []
+    },
+    {
+      "id": "b037",
+      "categoryName": "Tutorial",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "499e",
+      "caption": "JAVASCRIPT",
+      "youtubeLink": "https://www.youtube.com/embed/lfmg-EJ8gm4",
+      "timeStamp": "12/19/2024, 1:29:39 PM GMT+5:30"
+    },
+    {
+      "id": "3d6b",
+      "caption": "CSS Tutorial",
+      "youtubeLink": "https://www.youtube.com/embed/LLU9WtSAEeE",
+      "timeStamp": "12/19/2024, 1:29:53 PM GMT+5:30"
+    },
+    {
+      "id": "6ac1",
+      "caption": "Marco",
+      "youtubeLink": "https://www.youtube.com/embed/5dy3azady4w",
+      "timeStamp": "12/27/2024, 1:26:04 PM GMT+5:30"
+    },
+    {
+      "id": "d64d",
+      "caption": "Marco",
+      "youtubeLink": "https://www.youtube.com/embed/5dy3azady4w",
+      "timeStamp": "12/27/2024, 1:26:11 PM GMT+5:30"
+    }
+  ]
+}
